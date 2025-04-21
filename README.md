@@ -5,4 +5,5 @@ Is an application that allows people with low self-confidence or who are shy abo
 If these questions apply to you, this app will help people who feel this way take action.
 
 # Blind Eye First Schema
+Also, there is a pdf file in the source.
 ![blindeye drawio (1)](https://github.com/user-attachments/assets/48f0ee37-9726-4a6b-b5f8-5cb8497351d8)
