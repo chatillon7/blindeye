@@ -7,3 +7,6 @@ If these questions apply to you, this app will help people who feel this way tak
 # Blind Eye First Schema
 Also, there is a pdf file in the source.
 ![blindeye drawio (1)](https://github.com/user-attachments/assets/48f0ee37-9726-4a6b-b5f8-5cb8497351d8)
+
+# Blind Eye First SQL Schema
+![b_e_first_sql_schema](https://github.com/user-attachments/assets/182c6318-e7a4-421d-a5dd-b9f8702b99d5)
